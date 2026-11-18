@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TKBshot</title>
+        <item>
+            <title>1.0.24</title>
+            <pubDate>Wed, 18 Nov 2026 15:39:14 +0900</pubDate>
+            <link>https://apps.tkbtk.com/TKBshot/</link>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!DOCTYPE html>
+<html lang="ja"><head><meta charset="utf-8">
+<style>body{font-family:-apple-system,sans-serif;font-size:13px;line-height:1.7;margin:0;padding:4px}h3{font-size:13px;margin:0.8em 0 0.2em}h3:first-child{margin-top:0}ul{padding-left:1.2em;margin:0.2em 0}</style>
+</head><body>
+<h3>変更</h3>
+<ul><li>撮影範囲を指定するときの十字線を白と黒の破線にし、白い画面でも見やすくしました</li><li>ドラッグ中の選択枠に暗い縁取りを付け、白い画面でも見えるようにしました</li></ul>
+</body></html>
+]]></description>
+            <enclosure url="https://github.com/TKBlabs/TKBshot/releases/download/v1.0.24/TKBshot_1.0.24.dmg" length="2247729" type="application/octet-stream" sparkle:edSignature="39OaMd0n1I+w2ac8DWGHqeqBr3XbXPO9yTtCs1YG0gH4WWonRhouIrv+R24pCOKlUpCx94NMdeIEVZvheC+cDQ=="/>
+        </item>
+    </channel>
+</rss>
