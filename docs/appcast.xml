@@ -3,6 +3,25 @@
     <channel>
         <title>TKBshot</title>
         <item>
+            <title>1.0.25</title>
+            <pubDate>Wed, 18 Nov 2026 15:47:21 +0900</pubDate>
+            <link>https://apps.tkbtk.com/TKBshot/</link>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!DOCTYPE html>
+<html lang="ja"><head><meta charset="utf-8">
+<style>body{font-family:-apple-system,sans-serif;font-size:13px;line-height:1.7;margin:0;padding:4px}h3{font-size:13px;margin:0.8em 0 0.2em}h3:first-child{margin-top:0}ul{padding-left:1.2em;margin:0.2em 0}</style>
+</head><body>
+<h3>追加</h3>
+<ul><li>「アプリケーション」フォルダ以外から起動したときに、移動して起動し直すかを確認するようにしました（自動アップデートを確実に動かすため）。</li></ul>
+<h3>変更</h3>
+<ul><li>配布形式をZIPからDMGに変更しました。DMGを開いて、TKBshot.appを「アプリケーション」フォルダへドラッグしてください。</li><li>配布元をGitHub（github.com/TKBlabs/TKBshot）に移し、製品ページを apps.tkbtk.com に移しました。自動アップデートはこれまでどおり使えます。</li><li>アップデートの確認画面などを日本語で表示するようにしました。</li></ul>
+</body></html>
+]]></description>
+            <enclosure url="https://github.com/TKBlabs/TKBshot/releases/download/v1.0.25/TKBshot_1.0.25.dmg" length="3353274" type="application/octet-stream" sparkle:edSignature="bOUIBRwbk5C7SorReg23liQaoRwFngb7dJdgzLGEaKInrNXX3OqQYNF6172QbI7gGoOKcPEJRG+impPrrF/TBw=="/>
+        </item>
+        <item>
             <title>1.0.24</title>
             <pubDate>Wed, 18 Nov 2026 15:39:14 +0900</pubDate>
             <link>https://apps.tkbtk.com/TKBshot/</link>
